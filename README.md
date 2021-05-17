@@ -1,4 +1,4 @@
-
+# Prodapt-ASS2
 
 Printing a triangle star program
 
@@ -7,13 +7,6 @@ WE are writing our code in main method with conditions to print triangle.
 
 
 
-
-for(i=1;i<=row;i++)
-{
-for( j=i;j<=row;j++)
-{
-System.out.print(" ");
-}
 for( k=1;k<=(2*i-1);k++)
 {
 if(k==1||i==row||k==(2*i-1))
