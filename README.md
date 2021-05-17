@@ -8,6 +8,7 @@ WE are writing our code in main method with conditions to print triangle.
 
 
 
+
 for( k=1;k<=(2*i-1);k++)
 {
 if(k==1||i==row||k==(2*i-1))
@@ -18,6 +19,8 @@ else
 {
 System.out.print(" ");
 }
+
+
 
 
 
