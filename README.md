@@ -1,42 +1,28 @@
 # Prodapt-ASS2
+
 Printing a triangle star program
 
 In this program we are counting number of row and cloums.
-WE are writing our code in main method with some conditions.
+WE are writing our code in main method with conditions to print triangle.
 
 
-for( k=1;k<=(2*i-1);k++)
 
-
+for(i=1;i<=row;i++)
 {
-
-
-if(k==1||i==row||k==(2*i-1))
-
-
+for( j=i;j<=row;j++)
 {
-
-
-System.out.print("*");
-
-
-}
-
-
-else
-
-
-{
-
-
 System.out.print(" ");
-
-
 }
-
-
+for( k=1;k<=(2*i-1);k++)
+{
+if(k==1||i==row||k==(2*i-1))
+{
+System.out.print("*");
 }
-
+else
+{
+System.out.print(" ");
+}
 
 
 In the above loop we are taking some conditions to print trianglar star
