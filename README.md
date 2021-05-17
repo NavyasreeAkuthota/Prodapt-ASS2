@@ -20,11 +20,6 @@ System.out.print(" ");
 }
 
 
-
-
-
-
-
 In the above loop we are taking some conditions to print trianglar star
 if the condition is true it will print star.
 else it will print Spaces
