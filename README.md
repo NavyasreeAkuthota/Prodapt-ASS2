@@ -7,6 +7,7 @@ WE are writing our code in main method with conditions to print triangle.
 
 
 
+
 for(i=1;i<=row;i++)
 {
 for( j=i;j<=row;j++)
@@ -23,6 +24,7 @@ else
 {
 System.out.print(" ");
 }
+
 
 
 In the above loop we are taking some conditions to print trianglar star
